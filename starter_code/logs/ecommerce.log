@@ -1,0 +1,35 @@
+2022-06-28 14:58:45,287 INFO c.e.d.SareetaApplication [main] Starting SareetaApplication on DO1-BBS3-54L with PID 6097 (/Users/bbs3.lind/git/nd035-c4-Security-and-DevOps/starter_code/target/classes started by bbs3.lind in /Users/bbs3.lind/git/nd035-c4-Security-and-DevOps/starter_code)
+2022-06-28 14:58:45,292 DEBUG c.e.d.SareetaApplication [main] Running with Spring Boot v2.1.5.RELEASE, Spring v5.1.7.RELEASE
+2022-06-28 14:58:45,293 INFO c.e.d.SareetaApplication [main] No active profile set, falling back to default profiles: default
+2022-06-28 14:58:49,408 DEBUG c.e.d.s.JWTAuthenticationVerficationFilter [main] Filter 'JWTAuthenticationVerficationFilter' configured for use
+2022-06-28 14:58:50,221 INFO c.e.d.SareetaApplication [main] Started SareetaApplication in 5.295 seconds (JVM running for 8.467)
+2022-06-28 14:58:50,223 INFO c.e.d.SareetaApplication [main] ECommerce Application Started
+2022-06-28 15:31:28,564 INFO c.e.d.SareetaApplication [main] Starting SareetaApplication on DO1-BBS3-54L with PID 10402 (/Users/bbs3.lind/git/nd035-c4-Security-and-DevOps/starter_code/target/classes started by bbs3.lind in /Users/bbs3.lind/git/nd035-c4-Security-and-DevOps/starter_code)
+2022-06-28 15:31:28,571 DEBUG c.e.d.SareetaApplication [main] Running with Spring Boot v2.1.5.RELEASE, Spring v5.1.7.RELEASE
+2022-06-28 15:31:28,571 INFO c.e.d.SareetaApplication [main] No active profile set, falling back to default profiles: default
+2022-06-28 15:31:32,806 DEBUG c.e.d.s.JWTAuthenticationVerficationFilter [main] Filter 'JWTAuthenticationVerficationFilter' configured for use
+2022-06-28 15:31:33,610 INFO c.e.d.SareetaApplication [main] Started SareetaApplication in 5.453 seconds (JVM running for 7.226)
+2022-06-28 15:31:33,612 INFO c.e.d.SareetaApplication [main] ECommerce Application Started
+2022-06-28 15:35:20,953 INFO c.e.d.c.UserController [http-nio-8080-exec-1] Create user request
+2022-06-28 15:35:21,164 INFO c.e.d.c.UserController [http-nio-8080-exec-1] Create user request successes
+2022-06-28 15:35:40,692 INFO c.e.d.c.UserController [http-nio-8080-exec-3] Create user request
+2022-06-28 15:35:40,694 ERROR c.e.d.c.UserController [http-nio-8080-exec-3] Create user request failures
+2022-06-28 15:38:37,176 INFO c.e.d.c.UserController [http-nio-8080-exec-8] Create user request
+2022-06-28 15:38:37,282 INFO c.e.d.c.UserController [http-nio-8080-exec-8] Create user request successes
+2022-06-28 15:43:14,356 INFO c.e.d.SareetaApplication [main] Starting SareetaApplication on DO1-BBS3-54L with PID 11944 (/Users/bbs3.lind/git/nd035-c4-Security-and-DevOps/starter_code/target/classes started by bbs3.lind in /Users/bbs3.lind/git/nd035-c4-Security-and-DevOps/starter_code)
+2022-06-28 15:43:14,361 DEBUG c.e.d.SareetaApplication [main] Running with Spring Boot v2.1.5.RELEASE, Spring v5.1.7.RELEASE
+2022-06-28 15:43:14,362 INFO c.e.d.SareetaApplication [main] No active profile set, falling back to default profiles: default
+2022-06-28 15:43:18,270 DEBUG c.e.d.s.JWTAuthenticationVerficationFilter [main] Filter 'JWTAuthenticationVerficationFilter' configured for use
+2022-06-28 15:43:19,027 INFO c.e.d.SareetaApplication [main] Started SareetaApplication in 5.009 seconds (JVM running for 6.391)
+2022-06-28 15:43:19,029 INFO c.e.d.SareetaApplication [main] ECommerce Application Started
+2022-06-28 15:43:30,282 INFO c.e.d.c.UserController [http-nio-8080-exec-1] Create user request
+2022-06-28 15:43:30,470 INFO c.e.d.c.UserController [http-nio-8080-exec-1] Create user request successes
+2022-06-28 15:43:57,337 DEBUG c.e.d.s.JWTAuthenticationFilter [http-nio-8080-exec-3] Request is to process authentication
+2022-06-28 16:16:14,968 INFO c.e.d.c.OrderController [http-nio-8080-exec-9] Submit order by username
+2022-06-28 16:16:14,973 ERROR c.e.d.c.OrderController [http-nio-8080-exec-9] Not found any user has username [hel]
+2022-06-28 16:16:26,212 INFO c.e.d.c.OrderController [http-nio-8080-exec-10] Submit order by username
+2022-06-28 16:16:26,223 INFO c.e.d.c.OrderController [http-nio-8080-exec-10] Submit order successfully
+2022-06-28 16:17:41,676 INFO c.e.d.c.OrderController [http-nio-8080-exec-4] Get orders by username
+2022-06-28 16:17:41,678 INFO c.e.d.c.OrderController [http-nio-8080-exec-4] Get orders successfully
+2022-06-28 16:17:47,696 INFO c.e.d.c.OrderController [http-nio-8080-exec-6] Get orders by username
+2022-06-28 16:17:47,698 ERROR c.e.d.c.OrderController [http-nio-8080-exec-6] Not found any user has username [hell]
